@@ -24,6 +24,10 @@ Backend API for BizManager SaaS, a business management platform designed to hand
 - Docker
 - Docker Compose
 
+## Live API
+
+https://bizmanager-api.onrender.com
+
 ## Main Endpoints
 
 ### Health Check
